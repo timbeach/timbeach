@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Tim Beach - @timbeach
-- 👀 I’m interesting
-- 🌱 I’m currently learning all sorts of things every day
-- 📫 You may email me at tim@timbeach.com
+- 👀 I'm working on TANKLINUX.COM
+- 🌱 Good struggle to you!
