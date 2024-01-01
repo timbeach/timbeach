@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tim Beach - @timbeach
-- 👀 I'm working on TANKLINUX.COM
-- 🌱 Good struggle to you!
+- 👀 I'm working on stuff at work I can't really talk about
+- I'm also working publicly on [Aegix Linux](https://aegixlinux.org) 
