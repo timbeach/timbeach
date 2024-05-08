@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim Beach - @timbeach
-- 👀 I'm working publicly on [Aegix Linux](https://aegixlinux.org) 
+- 👀 I daily drive and develop a GNU/Linux system called [Aegix Linux](https://aegixlinux.org) 
 
 ``` Shell
 
